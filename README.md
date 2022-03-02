@@ -29,3 +29,15 @@
   The program named push_swap receives as an argument the stack a formatted as a list of integers. The first argument should be at the top of the stack. The program display a list of instructions to sort the stack a. If no parameters are specified, the program displays nothing. In case of error the console displays <b>Error<b/>. Errors include for example: some arguments aren’t integers, some arguments are bigger or samller than an integer, and/or there are duplicates.
   </p>
 </div>
+<h2>Usage</h2>
+<div>
+    <p>
+        With the Makefile you can compile directly. The rules that it allows are:
+        <ul>
+         <li>Make: it compiles directly</li>
+         <li>Make re: if the project is already compiled, it does it again</li>
+         <li>Make clean. Deletes all .o files but the executable remains</li>
+         <li>make fclean: deletes all .o files and the executable</li>
+    </ul>
+    </p>
+</div>
