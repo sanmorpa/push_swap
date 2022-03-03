@@ -40,4 +40,9 @@
          <li>make fclean: deletes all .o files and the executable</li>
     </ul>
     </p>
+      Launch the program as follows:<br/>
+  <b>./push_swap &lt;list of n non-repeated numbers&gt;</b><br/>
+        or
+        <b>./push_swap &lt;"list of n non-repeated numbers"&gt;</b>
+    </p>
 </div>
