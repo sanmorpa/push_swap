@@ -1,4 +1,4 @@
-<h1>push_swap</h1>
+<h1>push_swap <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8uf09z900060gl2pg6sdczb/project/2469655" alt="samoreno's 42 push_swap Score" /></a></h1>
 <h2>Project description</h2>
 <div>
 <!--  <a href="https://github.com/JaeSeoKim/badge42">
